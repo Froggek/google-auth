@@ -1,5 +1,8 @@
 # Various project-specific stuffs 
 *.code-workspace 
+build/**
+.vscode/**
+package-lock.json
 
 
 # Logs
