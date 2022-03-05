@@ -32,4 +32,5 @@ module.exports = {
     plugins: [], 
 
     mode: 'development', 
+    devtool: "source-map", 
 }; 
