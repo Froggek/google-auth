@@ -9,6 +9,7 @@ Playing with Google-Firebase Authentication library
 
 ## Firebase Auth
 - [Step-by-step setup](https://firebase.google.com/docs/web/setup)
+- [Install Local Emulator Suite](https://firebase.google.com/docs/emulator-suite/install_and_configure)
 
 
 
